@@ -1,0 +1,28 @@
+_repo: Millet-Masterpieces-in-Colour-Series_43068
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43068-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turner, Percy Moore
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '41978'
+    url: http://www.gutenberg.org/2009/agents/41978
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Millet, Jean François, 1814-1875'
+- !lcc 'ND'
+title: Millet
+url: http://www.gutenberg.org/ebooks/43068
